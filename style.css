@@ -12,7 +12,7 @@ h1 {
   left: -100px;
   top: 100px;
   border-radius: 5%;
-  font-size: "1";
+  font-size: 10vh;
 }
 .contenedor {
   text-align: center;
