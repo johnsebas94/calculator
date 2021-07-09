@@ -1,0 +1,93 @@
+h1 {
+  color: darkblue;
+}
+.pantalla {
+  text-align: center;
+  margin-left: 150px;
+  margin-top: 50px;
+  width: 500px;
+  height: 200px;
+  background-color: bisque;
+  position: absolute;
+  left: -100px;
+  top: 100px;
+  border-radius: 5%;
+}
+.contenedor {
+  text-align: center;
+  width: 910px;
+  height: 450px;
+  background-color: grey;
+  border-radius: 10%;
+}
+.columna1 {
+  position: absolute;
+  left: 50px;
+  top: 380px;
+}
+.columna2 {
+  position: absolute;
+  left: 80px;
+  top: 420px;
+}
+.columna3 {
+  position: absolute;
+  left: 50px;
+  top: 460px;
+}
+
+.columnaN1 {
+  position: absolute;
+  left: 600px;
+  top: 400px;
+}
+.columnaN2 {
+  position: absolute;
+  left: 600px;
+  top: 340px;
+}
+.columnaN3 {
+  position: absolute;
+  left: 600px;
+  top: 280px;
+}
+.columnaN4 {
+  position: absolute;
+  left: 600px;
+  top: 220px;
+}
+.columnaN5 {
+  position: absolute;
+  left: 580px;
+  top: 160px;
+}
+.botonesletras {
+  width: 50px;
+  height: 30px;
+  color: white;
+  background-color: black;
+}
+.botonesnumeros {
+  width: 50px;
+  height: 40px;
+  background-color: cornflowerblue;
+  font-weight: bold;
+}
+.botonesoperaciones {
+  width: 50px;
+  height: 40px;
+  background-color: chocolate;
+  font-weight: bold;
+}
+.botonesMandos {
+  width: 50px;
+  height: 30px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+.botonEspacio {
+  width: 100px;
+  height: 30px;
+  color: white;
+  background-color: black;
+}
